@@ -16,19 +16,19 @@ An advanced AI-powered recruitment and career assistance platform built using Py
 
 🛠 Technologies Used:- Python, Streamlit, Pandas, Plotly, PyPDF2, TextBlob, NLP
 
-📂 Project Modules
-  👨‍💼 Candidate Portal
-    Upload Resume
-    ATS Score Analysis
-    Skill Detection
-    Resume-Based Questions
-    AI Interview Practice
-  📊 Recruiter Dashboard
-    Upload Multiple Resumes
-    Candidate Ranking
-    ATS Analytics
-    Role Prediction
-    Hiring Insights
+📂 Project Module\:- 
+  👨‍💼 Candidate Portal\
+    Upload Resume\
+    ATS Score Analysis\
+    Skill Detection\
+    Resume-Based Questions\
+    AI Interview Practice\
+  📊 Recruiter Dashboard:-\
+    Upload Multiple Resumes\
+    Candidate Ranking\
+    ATS Analytics\
+    Role Prediction\
+    Hiring Insights\
 
 📌 Future Enhancements:-\
 AI Chatbot Integration\
